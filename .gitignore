@@ -1,0 +1,4 @@
+*.bin
+Cargo.lock
+*.img
+*.log
